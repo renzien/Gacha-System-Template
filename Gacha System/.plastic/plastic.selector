@@ -1,0 +1,4 @@
+repository "Gacha System/Gacha System@1375062847517@cloud"
+  path "/"
+    br "/main"
+    co "/main"
