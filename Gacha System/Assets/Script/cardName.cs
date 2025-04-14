@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "CardRarity", menuName = "Character")]
+[CreateAssetMenu(fileName = "Card", menuName = "Character")]
 public class cardName : ScriptableObject
 {
     public Sprite image;

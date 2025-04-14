@@ -20,6 +20,6 @@ public class bannerCard : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Start();
     }
 }
